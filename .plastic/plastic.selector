@@ -1,0 +1,4 @@
+repository "TheFOXDungeon@dogeqwq@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
